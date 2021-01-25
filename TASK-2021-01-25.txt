@@ -1,0 +1,32 @@
+Tugas
+1. Install PostgreSQL
+2. Install MongoDB
+3. Dowload JMeter
+
+Praktik menggunakan postgreSQL
+4. Jalanin postgreSQL-script-example-2020-01-25.sql (Sesuai waktu demo)
+5. Jalanin demo-postgresql
+6. Jalanin JMeter demo-mongo.1.EmployeePopulateData-fromFile.jmx
+7. Jalanin JMeter demo-mongo.2.EmployeePopulateData-random.jmx
+
+Praktik menggunakan mongoDB
+8. Jalanin postgreSQL-script-example-2020-01-25.sql (Sesuai waktu demo)
+9. Jalanin demo-postgresql
+10. Jalanin JMeter postgresql.2.EmployeePopulateData-fromFile
+11. Jalanin JMeter postgresql.2.EmployeePopulateData-random.jmx
+
+Praktik membuat rest API menggunakan Java App + mongoDB
+12. Buat api CREATE,READ,UPDATE,DELETE
+Entity : Person
+Fields :
+{
+"personCode" : "",
+"personName":"",
+"addresses": [
+    {
+     "addressName":"",
+     "address":"",
+     "city":""
+    }
+ ]
+}
